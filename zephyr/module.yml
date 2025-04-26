@@ -1,3 +1,4 @@
+name: zmk-keyboard-crossyboi
 build:
   settings:
     board_root: .
